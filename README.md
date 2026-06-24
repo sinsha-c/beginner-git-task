@@ -1,3 +1,8 @@
+# Git Basics: Branches, Merges, Conflicts, and Cherry-Pick
+
+## Overview
+This covers the foundational DevOps work: setting up the repo, defining the branching model (e.g., main, develop, feature/*), and establishing the workflow for the team.
+
 **Scenario** 
 
 You are working as a DevOps Engineer in a company called **ABC Technologies**. The development team is building a simple website called **Student Portal**. 
