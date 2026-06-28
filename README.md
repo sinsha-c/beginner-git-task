@@ -223,7 +223,6 @@ Follow the journey on [LinkedIn](https://linkedin.com/in/sinshac)
 ## Author
  
 **Sinsha C**
-Senior DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD
  
 [![GitHub](https://img.shields.io/badge/GitHub-sinsha--c-181717?style=flat&logo=github&logoColor=white)](https://github.com/sinsha-c)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sinshac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinshac)
